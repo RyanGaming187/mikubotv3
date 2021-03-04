@@ -1,5 +1,5 @@
 {
-  "name": "Miku Bot",
+  "name": "MikuBot",
   "version": "1.0.0",
   "description": "Termux whatsapp bot",
   "main": "index.js",
